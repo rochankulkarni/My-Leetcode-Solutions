@@ -8,6 +8,7 @@ Building Consistency in DSA •⁠‿⁠•⁠.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1408-string-matching-in-an-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## String
 |  |
@@ -25,4 +26,8 @@ Building Consistency in DSA •⁠‿⁠•⁠.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
