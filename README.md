@@ -9,6 +9,7 @@ Building Consistency in DSA •⁠‿⁠•⁠.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1408-string-matching-in-an-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## String
 |  |
@@ -30,4 +31,9 @@ Building Consistency in DSA •⁠‿⁠•⁠.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
