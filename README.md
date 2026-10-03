@@ -10,6 +10,7 @@ Building Consistency in DSA •⁠‿⁠•⁠.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1408-string-matching-in-an-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## String
@@ -23,6 +24,7 @@ Building Consistency in DSA •⁠‿⁠•⁠.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Two Pointers
 |  |
