@@ -12,6 +12,7 @@ Building Consistency in DSA •⁠‿⁠•⁠.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## String
 |  |
@@ -31,6 +32,7 @@ Building Consistency in DSA •⁠‿⁠•⁠.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +46,16 @@ Building Consistency in DSA •⁠‿⁠•⁠.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
