@@ -13,6 +13,7 @@ Building Consistency in DSA •⁠‿⁠•⁠.
 | [0136-single-number](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1408-string-matching-in-an-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## String
 |  |
@@ -33,6 +34,7 @@ Building Consistency in DSA •⁠‿⁠•⁠.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,12 +52,15 @@ Building Consistency in DSA •⁠‿⁠•⁠.
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rochankulkarni/My-Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
